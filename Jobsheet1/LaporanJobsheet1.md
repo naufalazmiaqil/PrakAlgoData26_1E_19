@@ -1,9 +1,11 @@
 PRAKTIKUM DASAR PEMROGRAMAN
 
-Nama        : Naufal Azmi Aqil
-Jurusan     : Informatika  
-Kelas       : TI 1-E
-Mata Kuliah : Algoritma dan Struktur data
+<h4> Nama        : Naufal Azmi Aqil <h4>
+<h4> Jurusan     : Informatika  <h4>
+<h4> Kelas       : TI 1-E<h4>
+<h4> Mata Kuliah : Algoritma dan Struktur data<h4>
+
+
 
 # PEMILIHAN
 Program ini digunakan untuk menghitung nilai akhir mahasiswa berdasarkan komponen:
