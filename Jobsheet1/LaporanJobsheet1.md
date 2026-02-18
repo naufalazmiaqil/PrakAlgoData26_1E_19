@@ -1,9 +1,9 @@
 PRAKTIKUM DASAR PEMROGRAMAN
 
-<h4> Nama        : Naufal Azmi Aqil <h4>
-<h4> Jurusan     : Informatika  <h4>
-<h4> Kelas       : TI 1-E<h4>
-<h4> Mata Kuliah : Algoritma dan Struktur data<h4>
+<h2> Nama        : Naufal Azmi Aqil <h2>
+<h2> Jurusan     : Informatika  <h2>
+<h2> Kelas       : TI 1-E<h2>
+<h2> Mata Kuliah : Algoritma dan Struktur data<h2>
 
 
 
