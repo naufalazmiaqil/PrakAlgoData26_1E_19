@@ -1,8 +1,9 @@
-<img width="1141" height="671" alt="image" src="https://github.com/user-attachments/assets/7ec488fe-d735-444c-8297-7716772369df" /># LAPORAN PRAKTIKUM DASAR PEMROGRAMAN
+PRAKTIKUM DASAR PEMROGRAMAN
 
-Nama  : Naufal Azmi Aqil
-Jurusan : Informatika  
-Mata Kuliah : Dasar Pemrograman
+Nama        : Naufal Azmi Aqil
+Jurusan     : Informatika  
+Kelas       : TI 1-E
+Mata Kuliah : Algoritma dan Struktur data
 
 # PEMILIHAN
 Program ini digunakan untuk menghitung nilai akhir mahasiswa berdasarkan komponen:
