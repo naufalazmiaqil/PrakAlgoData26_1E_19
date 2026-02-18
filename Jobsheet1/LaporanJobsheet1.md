@@ -1,4 +1,4 @@
-# LAPORAN PRAKTIKUM DASAR PEMROGRAMAN
+<img width="1141" height="671" alt="image" src="https://github.com/user-attachments/assets/7ec488fe-d735-444c-8297-7716772369df" /># LAPORAN PRAKTIKUM DASAR PEMROGRAMAN
 
 Nama  : Naufal Azmi Aqil
 Jurusan : Informatika  
@@ -16,8 +16,9 @@ Setelah nilai akhir dihitung, program akan mengonversinya ke nilai huruf (A–E)
 * D, E → TIDAK LULUS
 Output yang dihasilkan berupa nilai akhir, nilai huruf, dan keterangan LULUS atau TIDAK LULUS.
 
-    - Screenshoot
+- Screenshoot
 ![Screenshot Program](https://github.com/naufalazmiaqil/PrakAlgoData26_1E_19/blob/796e0220442e5c7e313582a92a1644775ec1fdcb/Jobsheet1/Tangkapan%20Layar%202026-02-18%20pukul%2007.54.11.png)
+
 
 
 
@@ -29,7 +30,10 @@ Aturan cetak
 * Ganjil → *
 * Angka 10 dan 15 → tidak dicetak
 
-    - Screenshoot
+- Screenshoot
+  <img width="1141" height="671" alt="image" src="https://github.com/user-attachments/assets/94ff12fb-e4dc-4ce6-8a4a-660125a568a5" />
+
+
 
 # ARRAY
 Praktikum ini bertujuan membuat program untuk menghitung IP Semester menggunakan konsep array.
@@ -41,8 +45,12 @@ Nilai tersebut dikonversi ke nilai setara (bobot) berdasarkan tabel konversi, la
 IP = Σ (Nilai Setara × SKS) / Σ SKS
 Output program menampilkan daftar mata kuliah beserta nilai huruf, bobot nilai, dan hasil akhir IP Semester.
 
-# FUNGSI
+- Screenshoot
+<img width="1084" height="806" alt="image" src="https://github.com/user-attachments/assets/55bc3f7d-56e7-4003-9058-2d6ee4a0e7cb" />
+<img width="1121" height="772" alt="image" src="https://github.com/user-attachments/assets/f617a61f-1985-4350-94d6-c48e9c7466ff" />
 
+
+# FUNGSI
 Praktikum ini membahas penggunaan fungsi untuk menghitung pendapatan setiap cabang toko bunga RoyalGarden.
 Data disajikan dalam bentuk tabel (array 2 dimensi), di mana:
 * Baris = Cabang toko
@@ -54,3 +62,15 @@ Program diminta untuk:
 2. Menentukan status cabang:
     * Pendapatan > Rp1.500.000 → Sangat Baik
     * Pendapatan ≤ Rp1.500.000 → Perlu Evaluasi
+
+- Screenshoot
+<img width="1062" height="759" alt="image" src="https://github.com/user-attachments/assets/2ae8749a-b690-444e-820f-a39a74e248b7" />
+
+ # TUGAS 1
+<img width="946" height="743" alt="image" src="https://github.com/user-attachments/assets/44055edf-83cd-4f2b-abe9-7e9b4ee3db19" />
+
+
+ # TUGAS 2
+<img width="1302" height="829" alt="image" src="https://github.com/user-attachments/assets/4b484fac-1de8-43c1-a21d-7c01f80c33ca" />
+<img width="859" height="311" alt="image" src="https://github.com/user-attachments/assets/af1d952c-53f0-4377-95b5-54770df10cb0" />
+
