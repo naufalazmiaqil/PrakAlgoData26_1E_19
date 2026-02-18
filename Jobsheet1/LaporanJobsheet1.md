@@ -17,7 +17,7 @@ Setelah nilai akhir dihitung, program akan mengonversinya ke nilai huruf (A–E)
 Output yang dihasilkan berupa nilai akhir, nilai huruf, dan keterangan LULUS atau TIDAK LULUS.
 
     - Screenshoot
-![Screenshot Program](/Users/naufalazmiaqil/Desktop/Tangkapan Layar 2026-02-13 pukul 20.48.24.png)
+![Screenshot Program]([- Screenshoot](https://github.com/naufalazmiaqil/PrakAlgoData26_1E_19/blob/796e0220442e5c7e313582a92a1644775ec1fdcb/Jobsheet1/Tangkapan%20Layar%202026-02-18%20pukul%2007.54.11.png)
 
 
 
