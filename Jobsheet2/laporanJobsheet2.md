@@ -44,9 +44,9 @@ Pada percobaan ini dilakukan pembuatan object dari class Mahasiswa menggunakan k
 Setelah object dibuat, atribut diisi dengan nilai tertentu dan method dipanggil untuk menampilkan informasi.
 
 - Screenshoot
-  - code
-    <img width="730" height="338" alt="image" src="https://github.com/user-attachments/assets/ec967a85-c255-4f64-b231-2fe06caea64c" />
-  - hasil running
+1. code
+   <img width="730" height="338" alt="image" src="https://github.com/user-attachments/assets/ec967a85-c255-4f64-b231-2fe06caea64c" />
+2. hasil running
     <img width="780" height="155" alt="image" src="https://github.com/user-attachments/assets/cc7c73ff-df79-4747-8e1c-36d2e1e913b4" />
 
 ## Jawaban Pertanyaan
