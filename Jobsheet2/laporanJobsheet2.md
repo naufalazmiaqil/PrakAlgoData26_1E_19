@@ -4,7 +4,6 @@
 Nama        : Nopal Azmi Aqil  
 Kelas       : TI-1A  
 Absen       : 19
-Mata Kuliah : Pemrograman Berbasis Objek  
 
 ---
 
