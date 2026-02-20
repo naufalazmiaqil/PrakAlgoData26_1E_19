@@ -15,7 +15,12 @@ Atribut digunakan untuk menyimpan data mahasiswa seperti NIM, nama, kelas, dan I
 Method digunakan untuk menampilkan informasi, mengubah kelas, memperbarui IPK, serta menentukan nilai kinerja mahasiswa berdasarkan IPK.
 
 - Screenshoot
-
+  - code 
+    <img width="930" height="719" alt="image" src="https://github.com/user-attachments/assets/0c004e08-08f9-4854-8445-d3c75624b221" />
+    
+  - hasil running
+    tidak ada hasil running karna kode harus error dikarenakan tidak ada void main
+  
 ## Jawaban Pertanyaan
 
 1. Dua karakteristik utama dari class/object adalah:
@@ -26,7 +31,7 @@ Method digunakan untuk menampilkan informasi, mengubah kelas, memperbarui IPK, s
 
 3. Jumlah method pada class Mahasiswa adalah 4, yaitu method untuk menampilkan informasi, mengubah kelas, memperbarui IPK, dan menentukan nilai kinerja.
 
-4. Method updateIPK seharusnya memvalidasi nilai IPK agar berada pada rentang 0.0–4.0 agar data tetap valid.
+4. <img width="730" height="268" alt="image" src="https://github.com/user-attachments/assets/4d79f04a-677e-4f5a-8127-87fa5f88f609" />
 
 5. Method nilaiKinerja bekerja dengan cara mengevaluasi nilai IPK menggunakan percabangan, lalu mengembalikan kategori kinerja seperti Sangat Baik, Baik, Cukup, atau Kurang.
 
@@ -39,6 +44,10 @@ Pada percobaan ini dilakukan pembuatan object dari class Mahasiswa menggunakan k
 Setelah object dibuat, atribut diisi dengan nilai tertentu dan method dipanggil untuk menampilkan informasi.
 
 - Screenshoot
+  - code 
+    <img width="730" height="338" alt="image" src="https://github.com/user-attachments/assets/ec967a85-c255-4f64-b231-2fe06caea64c" />
+  - hasil running
+    <img width="780" height="155" alt="image" src="https://github.com/user-attachments/assets/cc7c73ff-df79-4747-8e1c-36d2e1e913b4" />
 
 ## Jawaban Pertanyaan
 
