@@ -77,16 +77,29 @@ Terdapat dua jenis konstruktor:
 Dengan konstruktor berparameter, data dapat langsung diisi saat pembuatan object.
 
 - Screenshoot
+1. code
+
+   <img width="930" height="165" alt="image" src="https://github.com/user-attachments/assets/d301c00c-2648-4a55-b9d8-ad43aed95530" />
+   <img width="930" height="56" alt="image" src="https://github.com/user-attachments/assets/e89f070a-8964-41b5-9a1c-58d7fdded700" />
+
+2. hasil running
+
+   <img width="930" height="169" alt="image" src="https://github.com/user-attachments/assets/b588d668-8411-4932-8286-9e667641d1d8" />
+
 
 ## Jawaban Pertanyaan
 
-1. Konstruktor adalah method khusus yang dipanggil saat object dibuat dan memiliki nama yang sama dengan class.
+1. ada di line 13 - 17
+
+   <img width="730" height="110" alt="image" src="https://github.com/user-attachments/assets/a70f3f03-c718-4d21-9eb6-b9023c660234" />
 
 2. Konstruktor berparameter memungkinkan pengisian atribut secara langsung saat instansiasi.
 
 3. Jika konstruktor default dihapus dan masih digunakan, maka program akan error karena konstruktor tersebut tidak tersedia.
 
 4. Method tidak harus diakses secara berurutan, tetapi dapat dipanggil sesuai kebutuhan program.
+   
+5. 
 
 ---
 
