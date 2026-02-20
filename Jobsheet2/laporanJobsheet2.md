@@ -15,7 +15,8 @@ Atribut digunakan untuk menyimpan data mahasiswa seperti NIM, nama, kelas, dan I
 Method digunakan untuk menampilkan informasi, mengubah kelas, memperbarui IPK, serta menentukan nilai kinerja mahasiswa berdasarkan IPK.
 
 - Screenshoot
-1. code 
+1. code
+   
    <img width="930" height="719" alt="image" src="https://github.com/user-attachments/assets/0c004e08-08f9-4854-8445-d3c75624b221" />
 2. hasil running
    tidak ada hasil running karna kode harus error dikarenakan tidak ada void main
