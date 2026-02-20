@@ -4,7 +4,6 @@
 Nama        : Nopal Azmi Aqil  
 Kelas       : TI-1A  
 Absen       : 19
-Mata Kuliah : Pemrograman Berbasis Objek  
 
 ---
 
@@ -16,7 +15,12 @@ Atribut digunakan untuk menyimpan data mahasiswa seperti NIM, nama, kelas, dan I
 Method digunakan untuk menampilkan informasi, mengubah kelas, memperbarui IPK, serta menentukan nilai kinerja mahasiswa berdasarkan IPK.
 
 - Screenshoot
-
+1. code
+   
+   <img width="930" height="719" alt="image" src="https://github.com/user-attachments/assets/0c004e08-08f9-4854-8445-d3c75624b221" />
+2. hasil running
+   tidak ada hasil running karna kode harus error dikarenakan tidak ada void main
+  
 ## Jawaban Pertanyaan
 
 1. Dua karakteristik utama dari class/object adalah:
@@ -27,8 +31,9 @@ Method digunakan untuk menampilkan informasi, mengubah kelas, memperbarui IPK, s
 
 3. Jumlah method pada class Mahasiswa adalah 4, yaitu method untuk menampilkan informasi, mengubah kelas, memperbarui IPK, dan menentukan nilai kinerja.
 
-4. Method updateIPK seharusnya memvalidasi nilai IPK agar berada pada rentang 0.0–4.0 agar data tetap valid.
-
+4. ini adalah perubahan yang saya lakukan
+   <img width="730" height="268" alt="image" src="https://github.com/user-attachments/assets/4d79f04a-677e-4f5a-8127-87fa5f88f609" />
+   
 5. Method nilaiKinerja bekerja dengan cara mengevaluasi nilai IPK menggunakan percabangan, lalu mengembalikan kategori kinerja seperti Sangat Baik, Baik, Cukup, atau Kurang.
 
 ---
@@ -40,10 +45,18 @@ Pada percobaan ini dilakukan pembuatan object dari class Mahasiswa menggunakan k
 Setelah object dibuat, atribut diisi dengan nilai tertentu dan method dipanggil untuk menampilkan informasi.
 
 - Screenshoot
+1. code
+   
+   <img width="930" height="345" alt="image" src="https://github.com/user-attachments/assets/b4b55201-cbab-4f15-8091-8e81c8087fc3" />
+2. hasil running
+   
+   <img width="930" height="157" alt="image" src="https://github.com/user-attachments/assets/370a65b0-0bc6-47e7-8dd8-b0dfedd3c53a" />
 
 ## Jawaban Pertanyaan
 
 1. Instansiasi object ada di line 6
+   
+   <img width="282" height="19" alt="image" src="https://github.com/user-attachments/assets/6d4e3a26-80e8-4f43-af09-99a66c5f8c9d" />
 
 2. Atribut dan method diakses menggunakan operator titik (.).
 
