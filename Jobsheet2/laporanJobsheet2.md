@@ -15,10 +15,10 @@ Atribut digunakan untuk menyimpan data mahasiswa seperti NIM, nama, kelas, dan I
 Method digunakan untuk menampilkan informasi, mengubah kelas, memperbarui IPK, serta menentukan nilai kinerja mahasiswa berdasarkan IPK.
 
 - Screenshoot
-  - code 
-    <img width="930" height="719" alt="image" src="https://github.com/user-attachments/assets/0c004e08-08f9-4854-8445-d3c75624b221" />
-  - hasil running
-    tidak ada hasil running karna kode harus error dikarenakan tidak ada void main
+1. code 
+   <img width="930" height="719" alt="image" src="https://github.com/user-attachments/assets/0c004e08-08f9-4854-8445-d3c75624b221" />
+2. hasil running
+   tidak ada hasil running karna kode harus error dikarenakan tidak ada void main
   
 ## Jawaban Pertanyaan
 
@@ -47,7 +47,8 @@ Setelah object dibuat, atribut diisi dengan nilai tertentu dan method dipanggil 
 1. code
    
    <img width="930" height="345" alt="image" src="https://github.com/user-attachments/assets/b4b55201-cbab-4f15-8091-8e81c8087fc3" />
-3. hasil running
+2. hasil running
+   
    <img width="930" height="157" alt="image" src="https://github.com/user-attachments/assets/370a65b0-0bc6-47e7-8dd8-b0dfedd3c53a" />
 
 ## Jawaban Pertanyaan
