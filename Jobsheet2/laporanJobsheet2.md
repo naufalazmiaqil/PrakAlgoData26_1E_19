@@ -45,8 +45,9 @@ Setelah object dibuat, atribut diisi dengan nilai tertentu dan method dipanggil 
 
 - Screenshoot
 1. code
+   
    <img width="930" height="345" alt="image" src="https://github.com/user-attachments/assets/b4b55201-cbab-4f15-8091-8e81c8087fc3" />
-2. hasil running
+3. hasil running
    <img width="930" height="157" alt="image" src="https://github.com/user-attachments/assets/370a65b0-0bc6-47e7-8dd8-b0dfedd3c53a" />
 
 ## Jawaban Pertanyaan
