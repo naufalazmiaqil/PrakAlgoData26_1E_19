@@ -103,23 +103,13 @@ Dengan konstruktor berparameter, data dapat langsung diisi saat pembuatan object
 
 ---
 
-# 2.4 Latihan Praktikum – MataKuliah
-
-## Penjelasan
-Pada latihan ini dibuat class MataKuliah dengan atribut kode mata kuliah, nama, SKS, dan jumlah jam.  
-Class ini memiliki method untuk menampilkan informasi, mengubah SKS, menambah jam, dan mengurangi jam.
-
-## Pertanyaan
-
-1. Atribut digunakan untuk menyimpan data mata kuliah.
-2. Method digunakan untuk memproses atau memanipulasi data tersebut.
-3. Konstruktor digunakan untuk menginisialisasi data saat object dibuat.
-4. Konsep object membantu memodelkan data dunia nyata ke dalam program.
-
----
-
 # Latihan Praktikum
 
 ## Tugas 1
 
+
+---
+
 ## Tugas 2
+
+---
