@@ -55,6 +55,7 @@ Setelah object dibuat, atribut diisi dengan nilai tertentu dan method dipanggil 
 ## Jawaban Pertanyaan
 
 1. Instansiasi object ada di line 6
+   
    <img width="282" height="19" alt="image" src="https://github.com/user-attachments/assets/6d4e3a26-80e8-4f43-af09-99a66c5f8c9d" />
 
 2. Atribut dan method diakses menggunakan operator titik (.).
