@@ -99,7 +99,10 @@ Dengan konstruktor berparameter, data dapat langsung diisi saat pembuatan object
 
 4. Method tidak harus diakses secara berurutan, tetapi dapat dipanggil sesuai kebutuhan program.
    
-5. 
+5. penambahan object baru 
+  
+   <img width="788" height="57" alt="image" src="https://github.com/user-attachments/assets/8bdb8d8c-40fa-46c1-95bb-4d09d2b5688b" />
+
 
 ---
 
