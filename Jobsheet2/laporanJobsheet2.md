@@ -109,10 +109,37 @@ Dengan konstruktor berparameter, data dapat langsung diisi saat pembuatan object
 # Latihan Praktikum
 
 ## Tugas 1
+- Screnshoot
+1. Kode Matkul
 
+   <img width="980" height="775" alt="image" src="https://github.com/user-attachments/assets/db02cbe6-f861-4cb7-b969-c911e891a06c" />
+
+2. Kode MatkulMain
+
+   <img width="980" height="376" alt="image" src="https://github.com/user-attachments/assets/2a03439d-a22f-4861-97aa-217d983f4aba" />
+
+3. Hasil Running
+
+   <img width="780" height="184" alt="image" src="https://github.com/user-attachments/assets/e5b928cc-fb1b-4ba4-8a03-fbc63736cf32" />
 
 ---
 
 ## Tugas 2
+- Screenshoot
+1. Kode Dosen
+
+   <img width="1096" height="721" alt="image" src="https://github.com/user-attachments/assets/3817f896-cd97-45b0-8c68-c0189548a10b" />
+
+
+2. Kode DosenMain
+
+   <img width="1096" height="371" alt="image" src="https://github.com/user-attachments/assets/807de32d-dd41-4451-9145-7ed6f209cb90" />
+
+
+3. Hasil Running
+
+   <img width="780" height="171" alt="image" src="https://github.com/user-attachments/assets/a366c1df-8f19-4b38-a044-31565459c091" />
+
+
 
 ---
