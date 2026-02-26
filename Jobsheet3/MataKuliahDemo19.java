@@ -7,16 +7,19 @@ public class MataKuliahDemo19 {
         
     Scanner nopal = new Scanner(System.in);
 
-    MataKuliah19[] arrayofMataKuliah19 = new MataKuliah19[3];
+    System.out.print("masukkan berapa matkul  : " );
+    int matkul = nopal.nextInt();
+    nopal.nextLine();
+    MataKuliah19[] arrayofMataKuliah19 = new MataKuliah19[matkul];
 
     String kode, nama, ruang, dummy;
     int sks, jumlahjam;
 
-    for(int i = 0; i < 3; i++){
+    for(int i = 0; i < arrayofMataKuliah19.length; i++){
         System.out.println("Masukkan Data Kuliah ke-" + (i+1));
         System.out.print("kode          : ");
         kode = nopal.nextLine();
-
+        
         System.out.print("Nama          : ");
         nama = nopal.nextLine();
 
