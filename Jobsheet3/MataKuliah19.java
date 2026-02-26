@@ -17,4 +17,12 @@ public class MataKuliah19 {
     void tambahdata(String ruang){
         this.ruang = ruang;
     }
+
+    public void cetakinfo(){
+        System.out.println("Kode        : " + kode);
+        System.out.println("Nama        : " + nama);
+        System.out.println("SKS         : " + sks);
+        System.out.println("Jumlah Jam  : " + jumlahjam);
+        System.out.println("Ruang       : " + ruang);
+    }
 }

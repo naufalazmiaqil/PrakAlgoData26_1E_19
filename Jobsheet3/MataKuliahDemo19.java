@@ -38,12 +38,7 @@ public class MataKuliahDemo19 {
         
         for (int i = 0; i < 3; i++) {
             System.out.println("Data Kuliah ke-" + (i+1));
-            System.out.println("kode        : " + arrayofMataKuliah19[i].kode);
-            System.out.println("Nama        : " + arrayofMataKuliah19[i].nama);
-            System.out.println("SKS         : " + arrayofMataKuliah19[i].sks);
-            System.out.println("Jumlah Jam  : " + arrayofMataKuliah19[i].jumlahjam);
-            System.out.println("Ruang       : " + arrayofMataKuliah19[i].ruang);
-            System.out.println("------------------------------------------");
+            arrayofMataKuliah19[i].cetakinfo();
             }
     }
 }
